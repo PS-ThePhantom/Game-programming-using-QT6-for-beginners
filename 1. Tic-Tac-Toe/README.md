@@ -1,5 +1,5 @@
 #Creating TicTacToe game Tutorial
-In this project ou will be learning how to create a simple
+In this project you will be learning how to create a simple
 game of TicTacToe in two ways:
 1. creating GUI's manually with code
 2. using Qt Designer to make GUI's
