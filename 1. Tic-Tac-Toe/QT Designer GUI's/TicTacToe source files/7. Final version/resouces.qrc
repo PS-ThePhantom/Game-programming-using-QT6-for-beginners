@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icons/application-exit.png</file>
+        <file>icons/newgame.png</file>
+    </qresource>
+</RCC>
